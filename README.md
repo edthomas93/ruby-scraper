@@ -1,4 +1,6 @@
-# Songkick Tech Test
+## Approach
+
+I was hoping to implement all philosophies that I have learnt at Maker's so far. This included creating user stories and then creating Test-Driven, readable, modularised, DRY code to satisfy these desired features. However as time was limited to 2 hours I focused on creating a finished product and then testing it with the time I had left. To ensure as much of the project was tested as possible I decided to do a feature test covering 90% of the code.
 
 ## How to use
 
@@ -35,11 +37,7 @@ e.g. `atom ./songkick-tech-test`
 #### 11. If you would like to the access JSON file open the file with your preferred IDE:
 `atom './public/temp.json'`
 
-## Approach
-
-As this is a tech test I was hoping to implement all philosophies that I have learnt at Maker's so far. This included creating user stories and then creating Test-Driven, readable, modularised, DRY code to satisfy these desired features. However as time was limited to 2 hours I focused on creating a finished product and then testing it with the time I had left. To ensure as much of the project was tested as possible I decided to do a feature test covering 90% of the code.
-
-####User stories:
+#### User stories:
 ```
 As a music lover,
 To make decisions on upcoming concerts,
